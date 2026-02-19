@@ -9,7 +9,24 @@ Data Analyst with strong analytical mindset, focused on data exploration, visual
 - Excel
 - Basic Statistics
 ## Projects
-Projects will be organized inside the /projects folder.
+
+### Olist E-commerce Analysis
+Exploratory data analysis of Brazilian e-commerce data using SQL and Python.
+
+🔗 Repository: https://github.com/dadoalm-cmyk/olist-ecommerce-analysis  
+🛠 Tools: SQL, Python  
+
+---
+
+### Sales Analysis
+Exploratory data analysis project focused on sales performance and business insights.
+
+🔗 Repository: https://github.com/dadoalm-cmyk/analise-vendas  
+🛠 Tools: Python  
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/davi-a-oliver-9a067b195/
 - Email: dadoalm@gmail.com
+
+
+
+
