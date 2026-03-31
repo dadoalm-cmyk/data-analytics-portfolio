@@ -29,7 +29,7 @@ Exploratory data analysis project focused on sales performance and business insi
 ### Salary Prediction and Data Analysis
 This project focuses on exploratory data analysis (EDA) and machine learning techniques to understand the key factors influencing salaries and to build a predictive model for salary estimation.
 
-🔗 Repository: https://github.com/dadoalm-cmyk/projeto-salary  
+🔗 Repository: [https://github.com/dadoalm-cmyk/projeto-salary](https://github.com/dadoalm-cmyk/projeto_salary)  
 🛠 Tools: Python (Machine Learning)
 
 ---
