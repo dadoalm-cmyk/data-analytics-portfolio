@@ -1,13 +1,15 @@
-# data-analytics-portfolio
-Exploratory data analysis, dashboards and business case studies built with Python, SQL and Power BI.
+
 # Data Analytics Portfolio
 Data Analyst with strong analytical mindset, focused on data exploration, visualization and decision-oriented insights.
 ## Technical Skills
- SQL
+
+- SQL
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Excel
-- Basic Statistics
+- Machine Learning
+- Statistic
+- AWS Tools
 ## Projects
 
 ### Olist E-commerce Analysis
@@ -36,6 +38,7 @@ This project focuses on exploratory data analysis (EDA) and machine learning tec
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/davi-a-oliver-9a067b195/
 - Email: dadoalm@gmail.com
+- Upwork: https://www.upwork.com/freelancers/~0125bf89170a2a282b
 
 
 
